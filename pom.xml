@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <platform.version>4.1.1.4</platform.version>
-        <android.plugin.version>3.8.0</android.plugin.version>
+        <android.plugin.version>4.0.0-rc.2</android.plugin.version>
         <android.sdk.platform.version>21</android.sdk.platform.version>
     </properties>
 
